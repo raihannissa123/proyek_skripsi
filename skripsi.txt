@@ -2,4 +2,5 @@ Skripsi
 
 Judul:Rancang Bangun Sistem Monitoring kualitas air bersih
 
-
+Abstrak:
+Dari yang kami lihat dilapangan bahwa alat yang diusulkan sangat membantu nantinya masyarakat untuk melihat kualitas airyang di salurkan oleh PDAM Bogor
