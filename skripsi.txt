@@ -4,3 +4,6 @@ Judul:Rancang Bangun Sistem Monitoring kualitas air bersih
 
 Abstrak:
 Dari yang kami lihat dilapangan bahwa alat yang diusulkan sangat membantu nantinya masyarakat untuk melihat kualitas airyang di salurkan oleh PDAM Bogor
+
+Metode Penelitian:
+Kami menggunakan metode penelitian menggunakan air yang kami ambil dari paralon yang disaluran air PDAm dengan masyarakat
